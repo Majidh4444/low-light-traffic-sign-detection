@@ -8,7 +8,7 @@ This repository contains the research paper presented at ICCCNT 2025.
 - Authors: Anjana G, Chethan Mukkapati, Majidh K, Vishnu Bhargav Kande, Ritish Rishi Lade, Siva Rama Krishna K
 
 ## 📎 Paper Link
-[Download Paper](./your-paper-file.pdf)
+[Download Paper](./16th_ICCCNT_2025_paper_6662.pdf)
 
 ## 🚀 Overview
 This work focuses on improving traffic sign detection under low-light conditions using enhanced deep learning pipelines.
